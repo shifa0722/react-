@@ -1,0 +1,14 @@
+.blog-container {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 5px gray;
+}
+
+.blog-image {
+  width: 150px;
+  height: 150px;
+  display: block;
+  margin: 0 auto 20px;
+  border-radius: 5px;
+}
